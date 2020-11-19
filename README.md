@@ -1,4 +1,4 @@
-# Tpa5221_classD_Amp
+# Tpa3221_classD_Amp
 ## For 8 Ohm speaker
 mode = master <br>
 Modulation Mode : AD Mode<br>
