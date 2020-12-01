@@ -7,6 +7,8 @@ Gain = 18dB  ( Vout/Vin = 8 ) <br>
 Functional Mode: Stereo BTL <br>
 LC Fliter : 10uH + 680nF *(approx 61kHz)* 20kHz -> Gain≈+0.5dB@8Ω<br>
 *Recommed Fliter capacitor use Metalized Film(like CCB)*<br><br>
+
+
 ![Topview](https://raw.githubusercontent.com/huhu6608/Tpa3221_classD_Amp/main/asserts/Top.jpg)
 *<p align="center">v1.0_Top view</p>*<br>
 
@@ -44,6 +46,7 @@ LC Fliter : 10uH + 680nF *(approx 61kHz)* 20kHz -> Gain≈+0.5dB@8Ω<br>
 6.如果用仪器测试（用普通信号发生器单端输入），不应使信号发生器与示波器共地，这时H桥与地形成通路这将造成芯片损坏。<br>
 
 ## Version
+The latest release [v1.1](https://github.com/huhu6608/Tpa3221_classD_Amp/releases/tag/V1.1)<br>
 **V1.0**<br>
 1.reset等接口未进行标注。<br>
 2.bottom输出未进行标注。<br>
